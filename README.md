@@ -8,10 +8,10 @@ The theory of active contours (AC) became widely popular among image segmentatio
 
 Precisely, a given energy functional related to the region balance must be solved in order to obtain the minimum variance quantity among all the resulting regions. This solution allows AC to be studied as an optimization problem. Original paper in [[2]](#2).
 
-![Sample1](airplane_animation.gif)
-
-![Sample2](zebra_animation.gif)
-
+<p align="center">
+  <img width="34.3%" src="https://github.com/erikycd/Active_contours/blob/main/airplane_animation.gif?raw=true">
+  <img width="50%" src="https://github.com/erikycd/Active_contours/blob/main/zebra_animation.gif?raw=true">
+</p>
 
 ## References
 
