@@ -6,7 +6,7 @@ This repository shows an approach for multichannel image segmentation using the 
 
 The theory of active contours (AC) became widely popular among image segmentation methods which dates back to the beginning of computer vision. Basically, a set of active moving curves is placed over the image, also known as active contours. AC are then used to compare the image content in order to reach a balance of regularity of the inner and the outer partitions. This leads to a semi-automatic region split and object segmentation.
 
-Precisely, a given energy functional related to the region balance must be solved in order to obtain the minimum variance quantity among all the resulting regions. This solution allows AC to be studied as an optimization problem. Original paper in [[2]](#2).
+Precisely, a given energy functional related to the balance of the region must be solved in order to obtain the minimum variance among all the resulting regions. This solution allows AC to be studied as an optimization problem. See the original paper in [[2]](#2).
 
 <p align="center">
   <img width="34.3%" src="https://github.com/erikycd/Active_contours/blob/main/airplane_animation.gif?raw=true">
